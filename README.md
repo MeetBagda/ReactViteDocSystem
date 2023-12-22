@@ -20,7 +20,7 @@ Key Features:
 🌐 Web Development at its Finest: This project serves as a showcase of best practices in web development, emphasizing performance, user experience, and maintainability.
 
 How to Get Started:
-1. Clone the Repository: git clone https://github.com/your-username/DynamicDocsManager.git
+1. Clone the Repository:
 
 2. Install Dependencies: cd DynamicDocsManager && npm install
 
