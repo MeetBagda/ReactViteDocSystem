@@ -32,3 +32,5 @@ Technologies Used:
 React
 Vite
 Tailwind CSS
+
+‼️ Node Modules are not included
